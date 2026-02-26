@@ -721,7 +721,7 @@
 					"required": true
 				},
 				{
-					"id": "-fabric-ctov-3-4-14-jar",
+					"id": "[fabric]ctov-3.4.14.jar",
 					"name": "[fabric]ctov-3.4.14.jar",
 					"type": "File",
 					"artifact": {
