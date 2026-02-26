@@ -1,5 +1,5 @@
 {
-	"version": "1.10.0",
+	"version": "1.10.1",
 	"discord": {
 		"clientId": "1094798205788631040",
 		"smallImageText": "",
@@ -23,7 +23,7 @@
 			"autoconnect": false,
 			"modules": [
 				{
-					"id": "net.fabricmc_fabric-loader_0.18.4",
+					"id": "net.fabricmc:fabric-loader:0.18.4",
 					"name": "Fabric Loader (0.18.4)",
 					"type": "Fabric",
 					"required": true,
@@ -35,7 +35,7 @@
 					},
 					"subModules": [
 						{
-							"id": "net.fabricmc_profile_1.20.1-fabric-0.18.4",
+							"id": "net.fabricmc:profile:1.20.1-fabric-0.18.4",
 							"name": "Fabric Profile (1.20.1 / 0.18.4)",
 							"type": "VersionManifest",
 							"required": true,
