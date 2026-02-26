@@ -1,22 +1,21 @@
 {
 	"version": "1.0.0",
-	"rss": "https://mysticred.space/rss",
 	"discord": {
-		"clientId": "999669813272121364",
+		"clientId": "1094798205788631040",
 		"smallImageText": "",
 		"smallImageKey": ""
 	},
 	"servers": [
 		{
-			"id": "2026-2-1.20.1",
-			"name": "All the Mods 9",
+			"id": "20260206_1.20.1",
+			"name": "룬스코드 젠슨황 모드 서버 시즌2",
 			"description": "MRS 2026-2 (MC 1.20.1 / Forge 47.4.0)",
-			"icon": "https://cdn.mysticred.space/icon.png",
-			"version": "1.1.1",
-			"address": "play.mysticred.space",
+			"icon": "https://images-ext-1.discordapp.net/external/glvCTrSzrvWFHxROTCmxH8fh6HBNJXL4KL6SgZcH-Y0/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/1470564770783564103/0a717c683d16bad97ba9ae1877fb58dd.png?format=webp&quality=lossless",
+			"version": "1.0.0",
+			"address": "51.79.218.227:20128",
 			"minecraftVersion": "1.20.1",
 			"discord": {
-				"shortId": "MYSTICRED",
+				"shortId": "Runscord",
 				"largeImageText": "",
 				"largeImageKey": ""
 			},
