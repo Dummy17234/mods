@@ -1,5 +1,6 @@
 {
   "version": "1.0.0",
+  "rss": "https://dummy17234.github.io/mods/news.xml", 
   "servers": [
     {
       "id": "my-server",
@@ -579,4 +580,5 @@
       ]
     }
   ]
+
 }
