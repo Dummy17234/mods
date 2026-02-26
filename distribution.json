@@ -5,6 +5,7 @@
       "id": "my-server",
       "name": "젠슨황모드 시즌 2",
       "address": "51.79.218.227:20128",
+      "version" : "1.20.1",
       "modules": [
         {
           "id": "appleskin-fabric-mc1-20-1-2-5-2-jar",
@@ -580,3 +581,4 @@
     }
   ]
 }
+
