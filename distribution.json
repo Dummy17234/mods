@@ -29,7 +29,7 @@
 					"type": "Fabric",
 					"required": true,
 					"artifact": {
-						"size": 0,
+						"size": 1944518,
 						"MD5": "REPLACE_WITH_REAL_MD5",
 						"url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.18.4/fabric-loader-0.18.4.jar",
 						"path": "loader/fabric-loader-0.18.4.jar"
@@ -41,7 +41,7 @@
 							"type": "VersionManifest",
 							"required": true,
 							"artifact": {
-								"size": 0,
+								"size": 2847,
 								"MD5": "REPLACE_WITH_REAL_MD5",
 								"url": "https://meta.fabricmc.net/v2/versions/loader/1.20.1/0.18.4/profile/json",
 								"path": "versions/1.20.1-fabric-0.18.4/1.20.1-fabric-0.18.4.json"
