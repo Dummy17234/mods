@@ -1,5 +1,5 @@
 {
-	"version": "1.10.2",
+	"version": "1.11.1",
 	"discord": {
 		"clientId": "1094798205788631040",
 		"smallImageText": "",
@@ -42,8 +42,68 @@
 							"artifact": {
 								"size": 2847,
 								"MD5": "1d844335e7b7210d051397850969030a3dd1c1d9",
-								"url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.18.4/fabric-loader-0.18.4.json",
-								"path": "versions/0.18.4/fabric-loader-0.18.4.json"
+								"url": "https://meta.fabricmc.net/v2/versions/loader/1.20.1/0.18.4/profile/json",
+								"path": "versions/1.20.1-fabric-0.18.4/1.20.1-fabric-0.18.4.json"
+							}
+						},
+						{
+							"id": "org.ow2.asm-asm-9.9",
+							"name": "ASM (9.9)",
+							"type": "Library",
+							"required": true,
+							"artifact": {
+								"size": 126122,
+								"MD5": "6d1dd0482c03a6dc1807d9d004456021",
+								"url": "https://repo1.maven.org/maven2/org/ow2/asm/asm/9.9/asm-9.9.jar",
+								"path": "libraries/org/ow2/asm/asm/9.9/asm-9.9.jar"
+							}
+						},
+						{
+							"id": "org.ow2.asm-asm-analysis-9.9",
+							"name": "ASM Analysis (9.9)",
+							"type": "Library",
+							"required": true,
+							"artifact": {
+								"size": 35149,
+								"MD5": "f07383cfbd50f097558341a03b8871e1",
+								"url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar",
+								"path": "libraries/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
+							}
+						},
+						{
+							"id": "org.ow2.asm-asm-commons-9.9",
+							"name": "ASM Commons (9.9)",
+							"type": "Library",
+							"required": true,
+							"artifact": {
+								"size": 74348,
+								"MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
+								"url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar",
+								"path": "libraries/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
+							}
+						},
+						{
+							"id": "org.ow2.asm-asm-tree-9.9",
+							"name": "ASM Tree (9.9)",
+							"type": "Library",
+							"required": true,
+							"artifact": {
+								"size": 51947,
+								"MD5": "912eeaba1a63d574ffc66c651c7c6725",
+								"url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar",
+								"path": "libraries/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
+							}
+						},
+						{
+							"id": "org.ow2.asm-asm-util-9.9",
+							"name": "ASM Util (9.9)",
+							"type": "Library",
+							"required": true,
+							"artifact": {
+								"size": 94565,
+								"MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
+								"url": "https://repo1.maven.org/maven2/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar",
+								"path": "libraries/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
 							}
 						}
 					]
