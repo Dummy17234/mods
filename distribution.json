@@ -53,7 +53,7 @@
 					"name": "appleskin-fabric-mc1.20.1-2.5.2.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/appleskin-fabric-mc1.20.1-2.5.2.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/appleskin-fabric-mc1.20.1-2.5.2.jar",
 						"size": 1097240,
 						"MD5": "0f5aeb43d6949ddad88449ad29884b2b",
 						"path": "mods/appleskin-fabric-mc1.20.1-2.5.2.jar"
@@ -65,7 +65,7 @@
 					"name": "architectury-9.2.14-fabric.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/architectury-9.2.14-fabric.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/architectury-9.2.14-fabric.jar",
 						"size": 567707,
 						"MD5": "a9b9997b0956c6d9b1a6550332c5c1d6",
 						"path": "mods/architectury-9.2.14-fabric.jar"
@@ -77,7 +77,7 @@
 					"name": "athena-fabric-1.20.1-3.1.2.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/athena-fabric-1.20.1-3.1.2.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/athena-fabric-1.20.1-3.1.2.jar",
 						"size": 121944,
 						"MD5": "d2a9c7bc7c1f7a8f2e7a4b6f5d40cc63",
 						"path": "mods/athena-fabric-1.20.1-3.1.2.jar"
@@ -89,7 +89,7 @@
 					"name": "balm-fabric-1.20.1-7.3.9.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/balm-fabric-1.20.1-7.3.9.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/balm-fabric-1.20.1-7.3.9.jar",
 						"size": 548531,
 						"MD5": "f7a5d164e2aa26b9a196f3768d0b3922",
 						"path": "mods/balm-fabric-1.20.1-7.3.9.jar"
@@ -101,7 +101,7 @@
 					"name": "bettercombat-fabric-1.8.5+1.20.1.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/bettercombat-fabric-1.8.5%2B1.20.1.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/bettercombat-fabric-1.8.5%2B1.20.1.jar",
 						"size": 211069,
 						"MD5": "54cf5f4ee9fdf2c7ea30f0c597ceeb79",
 						"path": "mods/bettercombat-fabric-1.8.5+1.20.1.jar"
@@ -113,7 +113,7 @@
 					"name": "betterf3-fabric-7.0.2.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/betterf3-fabric-7.0.2.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/betterf3-fabric-7.0.2.jar",
 						"size": 922316,
 						"MD5": "e3b8f0b2a14fcd1e5a2f30b8d0cf5b44",
 						"path": "mods/betterf3-fabric-7.0.2.jar"
@@ -125,7 +125,7 @@
 					"name": "betterstats-3.11.5+fabric-1.20.1.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/betterstats-3.11.5%2Bfabric-1.20.1.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/betterstats-3.11.5%2Bfabric-1.20.1.jar",
 						"size": 819469,
 						"MD5": "b7b0b90116a63a49bb3c0c07a4f12b71",
 						"path": "mods/betterstats-3.11.5+fabric-1.20.1.jar"
@@ -137,7 +137,7 @@
 					"name": "blockui-1.20.1-1.0.170.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/blockui-1.20.1-1.0.170.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/blockui-1.20.1-1.0.170.jar",
 						"size": 469993,
 						"MD5": "7ca3fb10b8d7ea57a59b30d03d8f3433",
 						"path": "mods/blockui-1.20.1-1.0.170.jar"
@@ -149,7 +149,7 @@
 					"name": "bookshelf-fabric-1.20.1-20.2.12.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/bookshelf-fabric-1.20.1-20.2.12.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/bookshelf-fabric-1.20.1-20.2.12.jar",
 						"size": 395565,
 						"MD5": "0038760aa5929e01f7695269b338e1cf",
 						"path": "mods/bookshelf-fabric-1.20.1-20.2.12.jar"
@@ -161,7 +161,7 @@
 					"name": "botanypots-fabric-1.20.1-13.0.41.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/botanypots-fabric-1.20.1-13.0.41.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/botanypots-fabric-1.20.1-13.0.41.jar",
 						"size": 549071,
 						"MD5": "bb3969922c4b0a349fc5eaec46ec8f9d",
 						"path": "mods/botanypots-fabric-1.20.1-13.0.41.jar"
@@ -173,7 +173,7 @@
 					"name": "c2me-fabric-mc1.20.1-0.2.0+alpha.11.5.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/c2me-fabric-mc1.20.1-0.2.0%2Balpha.11.5.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/c2me-fabric-mc1.20.1-0.2.0%2Balpha.11.5.jar",
 						"size": 1273405,
 						"MD5": "74f92ab0b9a5a0f2b1e1bf6964aa2de5",
 						"path": "mods/c2me-fabric-mc1.20.1-0.2.0+alpha.11.5.jar"
@@ -185,7 +185,7 @@
 					"name": "cardinal-components-api-5.2.2.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/cardinal-components-api-5.2.2.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/cardinal-components-api-5.2.2.jar",
 						"size": 222025,
 						"MD5": "3d7fd5c178a7bf67ab6ae2df6c4976a5",
 						"path": "mods/cardinal-components-api-5.2.2.jar"
@@ -197,7 +197,7 @@
 					"name": "carpet-fixes-1.20-1.18.5.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/carpet-fixes-1.20-1.18.5.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/carpet-fixes-1.20-1.18.5.jar",
 						"size": 36760,
 						"MD5": "ea4d9ee7494e4ec3d5dbe88fa4b9d744",
 						"path": "mods/carpet-fixes-1.20-1.18.5.jar"
@@ -209,7 +209,7 @@
 					"name": "chipped-fabric-1.20.1-3.0.7.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/chipped-fabric-1.20.1-3.0.7.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/chipped-fabric-1.20.1-3.0.7.jar",
 						"size": 17275106,
 						"MD5": "edb1f8c7f0dd171b0ec8e4146e6eb5c8",
 						"path": "mods/chipped-fabric-1.20.1-3.0.7.jar"
@@ -221,7 +221,7 @@
 					"name": "cloth-config-11.1.136-fabric.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/cloth-config-11.1.136-fabric.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/cloth-config-11.1.136-fabric.jar",
 						"size": 1156623,
 						"MD5": "a8c8b6e0e7158b2a8f47f0ec34cb0d62",
 						"path": "mods/cloth-config-11.1.136-fabric.jar"
@@ -233,7 +233,7 @@
 					"name": "collective-fabric-1.20.1-7.66.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/collective-fabric-1.20.1-7.66.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/collective-fabric-1.20.1-7.66.jar",
 						"size": 65570,
 						"MD5": "d5dfdff588a353b2db7932f824f18b5c",
 						"path": "mods/collective-fabric-1.20.1-7.66.jar"
@@ -245,7 +245,7 @@
 					"name": "connectivity-fabric-1.20.1-4.11.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/connectivity-fabric-1.20.1-4.11.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/connectivity-fabric-1.20.1-4.11.jar",
 						"size": 118990,
 						"MD5": "f7f9b73a72d5958b07942c0c6f3d0df5",
 						"path": "mods/connectivity-fabric-1.20.1-4.11.jar"
@@ -257,7 +257,7 @@
 					"name": "crafttweaker-fabric-1.20.1-14.0.48.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/crafttweaker-fabric-1.20.1-14.0.48.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/crafttweaker-fabric-1.20.1-14.0.48.jar",
 						"size": 1440590,
 						"MD5": "5a4fd0c8c7c4d5b9b3b6c5b0e9e75b2f",
 						"path": "mods/crafttweaker-fabric-1.20.1-14.0.48.jar"
@@ -269,7 +269,7 @@
 					"name": "craterlib-fabric-2.1.2.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/craterlib-fabric-2.1.2.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/craterlib-fabric-2.1.2.jar",
 						"size": 328311,
 						"MD5": "e2a7f2cfcb1be3df74a1ce3af86a38e2",
 						"path": "mods/craterlib-fabric-2.1.2.jar"
@@ -281,7 +281,7 @@
 					"name": "create-fabric-0.5.1-f-build.1417+mc1.20.1.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/create-fabric-0.5.1-f-build.1417%2Bmc1.20.1.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/create-fabric-0.5.1-f-build.1417%2Bmc1.20.1.jar",
 						"size": 15486259,
 						"MD5": "1b8d5f0b9a4c1ef5d2ff34a9ce104e59",
 						"path": "mods/create-fabric-0.5.1-f-build.1417+mc1.20.1.jar"
@@ -293,7 +293,7 @@
 					"name": "[fabric]ctov-3.4.14.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/%5Bfabric%5Dctov-3.4.14.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/%5Bfabric%5Dctov-3.4.14.jar",
 						"size": 6734661,
 						"MD5": "8353ad8ddce2b4f6e91c64a63ba4b49a",
 						"path": "mods/[fabric]ctov-3.4.14.jar"
@@ -305,7 +305,7 @@
 					"name": "darkpaintings-fabric-1.20.1-17.0.0.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/darkpaintings-fabric-1.20.1-17.0.0.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/darkpaintings-fabric-1.20.1-17.0.0.jar",
 						"size": 88402,
 						"MD5": "f5f2f9d2c2df892b14f72dbbf3509e21",
 						"path": "mods/darkpaintings-fabric-1.20.1-17.0.0.jar"
@@ -317,7 +317,7 @@
 					"name": "ferritecore-6.0.1-fabric.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/ferritecore-6.0.1-fabric.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/ferritecore-6.0.1-fabric.jar",
 						"size": 120295,
 						"MD5": "40f3a6e5b51a8b20eb8e3d1f3f0faee6",
 						"path": "mods/ferritecore-6.0.1-fabric.jar"
@@ -329,7 +329,7 @@
 					"name": "geckolib-fabric-1.20.1-4.4.9.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/geckolib-fabric-1.20.1-4.4.9.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/geckolib-fabric-1.20.1-4.4.9.jar",
 						"size": 9959162,
 						"MD5": "db23f32f9c7b1bf3c6b3ab4b6f0f5f3c",
 						"path": "mods/geckolib-fabric-1.20.1-4.4.9.jar"
@@ -341,7 +341,7 @@
 					"name": "jade-11.8.0-fabric.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/jade-11.8.0-fabric.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/jade-11.8.0-fabric.jar",
 						"size": 537192,
 						"MD5": "b3b31f9b8276f4f35d7a4a1eecb68c1f",
 						"path": "mods/jade-11.8.0-fabric.jar"
@@ -353,7 +353,7 @@
 					"name": "jei-1.20.1-fabric-15.3.0.4.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/jei-1.20.1-fabric-15.3.0.4.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/jei-1.20.1-fabric-15.3.0.4.jar",
 						"size": 1168126,
 						"MD5": "91f9c0b3fca9c187c5d6d43b2f0c7dbb",
 						"path": "mods/jei-1.20.1-fabric-15.3.0.4.jar"
@@ -365,7 +365,7 @@
 					"name": "lazy-dfu-0.1.3.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/lazy-dfu-0.1.3.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/lazy-dfu-0.1.3.jar",
 						"size": 26606,
 						"MD5": "0b7c950dcaf0a1c7f0027e57d8d1d7a5",
 						"path": "mods/lazy-dfu-0.1.3.jar"
@@ -377,7 +377,7 @@
 					"name": "lithium-fabric-mc1.20.1-0.11.2.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/lithium-fabric-mc1.20.1-0.11.2.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/lithium-fabric-mc1.20.1-0.11.2.jar",
 						"size": 704494,
 						"MD5": "cd2dbad93b4caa51050a69bfac3b3dae",
 						"path": "mods/lithium-fabric-mc1.20.1-0.11.2.jar"
@@ -389,7 +389,7 @@
 					"name": "modmenu-7.2.2.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/modmenu-7.2.2.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/modmenu-7.2.2.jar",
 						"size": 756466,
 						"MD5": "e1b361ee56c7306efb4d2a9d7e5c194a",
 						"path": "mods/modmenu-7.2.2.jar"
@@ -401,7 +401,7 @@
 					"name": "moonlight-1.20.1-fabric-2.13.21.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/moonlight-1.20.1-fabric-2.13.21.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/moonlight-1.20.1-fabric-2.13.21.jar",
 						"size": 1028342,
 						"MD5": "b7c40d85a0ad1c98413e492f37dd56a5",
 						"path": "mods/moonlight-1.20.1-fabric-2.13.21.jar"
@@ -413,7 +413,7 @@
 					"name": "sodium-fabric-mc1.20.1-0.5.8.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/sodium-fabric-mc1.20.1-0.5.8.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/sodium-fabric-mc1.20.1-0.5.8.jar",
 						"size": 918120,
 						"MD5": "d6d1c2db0c8a4a4b0c1c3a2c9a0e0f12",
 						"path": "mods/sodium-fabric-mc1.20.1-0.5.8.jar"
@@ -425,7 +425,7 @@
 					"name": "starlight-1.1.2+fabric.1.20.1.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/starlight-1.1.2%2Bfabric.1.20.1.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/starlight-1.1.2%2Bfabric.1.20.1.jar",
 						"size": 107647,
 						"MD5": "b5b05a3f8e5f2f6d6c8d0c0b3c0d0e0f",
 						"path": "mods/starlight-1.1.2+fabric.1.20.1.jar"
@@ -437,7 +437,7 @@
 					"name": "terrablender-fabric-1.20.1-3.0.1.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/terrablender-fabric-1.20.1-3.0.1.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/terrablender-fabric-1.20.1-3.0.1.jar",
 						"size": 124753,
 						"MD5": "e0d6d90a5a4b1d2d81d7d536dce2a1b6",
 						"path": "mods/terrablender-fabric-1.20.1-3.0.1.jar"
@@ -449,7 +449,7 @@
 					"name": "terraform-wood-api-v7.2.1.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/terraform-wood-api-v7.2.1.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/terraform-wood-api-v7.2.1.jar",
 						"size": 114180,
 						"MD5": "2e79d57f2ce9d4fba1a2f38a4cd81611",
 						"path": "mods/terraform-wood-api-v7.2.1.jar"
@@ -461,7 +461,7 @@
 					"name": "travelersbackpack-fabric-1.20.1-9.1.10.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/travelersbackpack-fabric-1.20.1-9.1.10.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/travelersbackpack-fabric-1.20.1-9.1.10.jar",
 						"size": 867525,
 						"MD5": "e9faabdb5dbb5c6c4ed5f3c5d0d1f0aa",
 						"path": "mods/travelersbackpack-fabric-1.20.1-9.1.10.jar"
@@ -473,7 +473,7 @@
 					"name": "trinkets-3.7.2.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/trinkets-3.7.2.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/trinkets-3.7.2.jar",
 						"size": 212475,
 						"MD5": "18b1b9d45f6cd1d7e8e4f6bb4a2e2d8a",
 						"path": "mods/trinkets-3.7.2.jar"
@@ -485,7 +485,7 @@
 					"name": "Xaeros_Minimap_24.2.0_Fabric_1.20.1.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/Xaeros_Minimap_24.2.0_Fabric_1.20.1.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/Xaeros_Minimap_24.2.0_Fabric_1.20.1.jar",
 						"size": 1657312,
 						"MD5": "0fd4c2f9d6a6732d1d5c2a8d9e6c0a1f",
 						"path": "mods/Xaeros_Minimap_24.2.0_Fabric_1.20.1.jar"
@@ -497,7 +497,7 @@
 					"name": "XaerosWorldMap_1.38.8_Fabric_1.20.1.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/XaerosWorldMap_1.38.8_Fabric_1.20.1.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/XaerosWorldMap_1.38.8_Fabric_1.20.1.jar",
 						"size": 903250,
 						"MD5": "a2f1b8c9d0e1f2a3b4c5d6e7f8090a1b",
 						"path": "mods/XaerosWorldMap_1.38.8_Fabric_1.20.1.jar"
@@ -509,7 +509,7 @@
 					"name": "yet_another_config_lib_fabric-3.5.0+1.20.1.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/yet_another_config_lib_fabric-3.5.0%2B1.20.1.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/yet_another_config_lib_fabric-3.5.0%2B1.20.1.jar",
 						"size": 1007934,
 						"MD5": "9e8d7c6b5a4f3e2d1c0b9a8f7e6d5c4b",
 						"path": "mods/yet_another_config_lib_fabric-3.5.0+1.20.1.jar"
@@ -521,7 +521,7 @@
 					"name": "Zoomify-2.13.0+1.20.1.jar",
 					"type": "File",
 					"artifact": {
-						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/mods/Zoomify-2.13.0%2B1.20.1.jar",
+						"url": "https://raw.githubusercontent.com/Dummy17234/mods/main/Zoomify-2.13.0%2B1.20.1.jar",
 						"size": 654246,
 						"MD5": "c1d2e3f4a5b6c7d8e9f0011223344556",
 						"path": "mods/Zoomify-2.13.0+1.20.1.jar"
