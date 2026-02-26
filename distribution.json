@@ -1,5 +1,5 @@
 {
-	"version": "1.11.1",
+	"version": "1.11.2",
 	"discord": {
 		"clientId": "1094798205788631040",
 		"smallImageText": "",
@@ -47,7 +47,7 @@
 							}
 						},
 						{
-							"id": "org.ow2.asm-asm-9.9",
+							"id": "org.ow2.asm:asm:9.9",
 							"name": "ASM (9.9)",
 							"type": "Library",
 							"required": true,
@@ -59,7 +59,7 @@
 							}
 						},
 						{
-							"id": "org.ow2.asm-asm-analysis-9.9",
+							"id": "org.ow2.asm:asm-analysis:9.9",
 							"name": "ASM Analysis (9.9)",
 							"type": "Library",
 							"required": true,
@@ -71,7 +71,7 @@
 							}
 						},
 						{
-							"id": "org.ow2.asm-asm-commons-9.9",
+							"id": "org.ow2.asm:asm-commons:9.9",
 							"name": "ASM Commons (9.9)",
 							"type": "Library",
 							"required": true,
@@ -83,7 +83,7 @@
 							}
 						},
 						{
-							"id": "org.ow2.asm-asm-tree-9.9",
+							"id": "org.ow2.asm:asm-tree:9.9",
 							"name": "ASM Tree (9.9)",
 							"type": "Library",
 							"required": true,
@@ -95,7 +95,7 @@
 							}
 						},
 						{
-							"id": "org.ow2.asm-asm-util-9.9",
+							"id": "org.ow2.asm:asm-util:9.9",
 							"name": "ASM Util (9.9)",
 							"type": "Library",
 							"required": true,
